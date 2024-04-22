@@ -230,10 +230,13 @@ or G5(CO,w3,w3);
 endmodule
 ```
 OUTPUT:
+
 ELOBRATED DESIGN:
+
 ![image](https://github.com/Mohanasankaran/VLSI-LAB-EXP-1/assets/161284142/ebea7985-d2f4-402f-b49c-8967c5b8b135)
 
 SIMULATION:
+
 ![image](https://github.com/Mohanasankaran/VLSI-LAB-EXP-1/assets/161284142/5118d134-c800-4b23-9c3e-a0d734cf013f)
 
 
