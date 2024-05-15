@@ -1,9 +1,14 @@
 # VLSI-LAB-EXPERIMENTS
-AIM: To simulate and synthesis Logic Gates,Adders and Subtractor using Vivadoo Software
 
-APPARATUS REQUIRED: Vivado™ ML 2023.2
+**AIM:**
 
-PROCEDURE:
+To simulate and synthesis Logic Gates,Adders and Subtractor using Vivadoo Software
+
+**APPARATUS REQUIRED:**
+
+Vivado™ ML 2023.2
+
+**PROCEDURE:**
 
 Open Vivado: Launch Xilinx Vivado software on your computer.
 
@@ -23,7 +28,7 @@ Run Simulation: Start the simulation by clicking on the "Run" button in the simu
 
 View Results: After the simulation completes, you can view waveforms, debug signals, and analyze the behavior of your design.
 
-Logic Diagram :
+**Logic Diagram :**
 
 Logic Gates:
 ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/ee17970c-3ac9-4603-881b-88e2825f41a4)
@@ -57,7 +62,8 @@ Full Subtractor:
 
 
 
-VERILOG CODE:
+**VERILOG CODE:**
+
 1.
 FULL ADDER CODE:
 ```
@@ -77,10 +83,13 @@ output sum,cout;
 endmodule
 ```
 OUTPUT:
+
 ELOBRATED DESIGN:
+
 ![image](https://github.com/Mohanasankaran/VLSI-LAB-EXP-1/assets/161284142/6a2848ed-8229-4aa8-a888-9e544410decc)
 
 SIMULATION:
+
 ![image](https://github.com/Mohanasankaran/VLSI-LAB-EXP-1/assets/161284142/2d856f9b-a314-4e57-8bf5-b9a90fd87c37)
 
 2.
@@ -94,10 +103,13 @@ and(carry,a,b);
 endmodule
 ```
 OUTPUT:
+
 ELOBRATED DESIGN:
+
 ![image](https://github.com/Mohanasankaran/VLSI-LAB-EXP-1/assets/161284142/f6785273-a02e-4c97-9822-748ca10034c3)
 
 SIMULATION:
+
 ![image](https://github.com/Mohanasankaran/VLSI-LAB-EXP-1/assets/161284142/ae000486-57ea-4a6f-9629-0d3ef759375c)
 
 
@@ -118,10 +130,13 @@ or o1(borrow,w4,w5,w6);
 endmodule
 ```
 OUTPUT:
+
 ELOBRATED DESIGN:
+
 ![image](https://github.com/Mohanasankaran/VLSI-LAB-EXP-1/assets/161284142/3305ec67-04aa-45a9-940f-b91377368df7)
 
 SIMULATION:
+
 ![image](https://github.com/Mohanasankaran/VLSI-LAB-EXP-1/assets/161284142/7ce1a211-df4d-4cfe-aa50-62eef0394483)
 
 
@@ -138,10 +153,13 @@ and (Bo,B,w1);
 endmodule
 ```
 OUTPUT:
+
 ELOBRATED DESIGN:
+
 ![image](https://github.com/Mohanasankaran/VLSI-LAB-EXP-1/assets/161284142/8ee9cb6f-d1fb-485d-be17-6caea4cf53cc)
 
 SIMULATION:
+
 ![image](https://github.com/Mohanasankaran/VLSI-LAB-EXP-1/assets/161284142/75b6ee6e-2691-4dce-98b9-9d35844cad94)
 
 
@@ -161,10 +179,13 @@ not(notgate,a);
 endmodule
 ```
 OUTPUT:
+
 ELOBRATED DESIGN:
+
 ![image](https://github.com/Mohanasankaran/VLSI-LAB-EXP-1/assets/161284142/062b9f76-41be-4835-9856-6c8f8257af9b)
 
 SIMULATION:
+
 ![image](https://github.com/Mohanasankaran/VLSI-LAB-EXP-1/assets/161284142/e3455e34-9984-4e2e-9e1b-4e0eefa2770b)
 
 
@@ -196,10 +217,13 @@ or  G5(Co, w2, w3);
 endmodule
 ```
 OUTPUT:
+
 ELOBRATED DESIGN:
+
 ![image](https://github.com/Mohanasankaran/VLSI-LAB-EXP-1/assets/161284142/1c181e41-0e2c-47ca-bf21-f4ab24a457da)
 
 SIMULATION:
+
 ![image](https://github.com/Mohanasankaran/VLSI-LAB-EXP-1/assets/161284142/a025f16f-b94b-4df6-a6b9-21375ffa7696)
 
 
@@ -258,7 +282,7 @@ SIMULATION:
 ![image](https://github.com/Mohanasankaran/VLSI-LAB-EXP-1/assets/161284142/5118d134-c800-4b23-9c3e-a0d734cf013f)
 
 
-RESULT:
+**RESULT:**
 
 The simulation and synthesis of Logic Gates, Adders and Subtractor using Vivadoo Software are successfully verified
 
